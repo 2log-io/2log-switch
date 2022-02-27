@@ -1,0 +1,19 @@
+stages:
+- build
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+image: frime/2log-esp8266-buildenv
+
+build:
+  stage: build
+  script:
+   - make all -j4
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - ./build
+  artifacts:
+    paths:
+      - ./build
