@@ -1,21 +1,21 @@
 [submodule "components/idfix-protocols"]
-	path = components/idfix-protocols
-	url = git@github.com:2log-io/idfix-protocols.git
+        path = components/idfix-protocols
+        url = https://github.com/2log-io/idfix-protocols.git
 [submodule "components/idfix-core"]
-	path = components/idfix-core
-	url = git@github.com:2log-io/idfix-core.git
+        path = components/idfix-core
+        url = https://github.com/2log-io/idfix-core.git
 [submodule "components/idfix-crypto"]
-	path = components/idfix-crypto
-	url = git@github.com:2log-io/idfix-crypto.git
+        path = components/idfix-crypto
+        url = https://github.com/2log-io/idfix-crypto.git
 [submodule "components/idfix-wifi"]
-	path = components/idfix-wifi
-	url = git@github.com:2log-io/idfix-wifi.git
+        path = components/idfix-wifi
+        url = https://github.com/2log-io/idfix-wifi.git
 [submodule "components/idfix-fota"]
-	path = components/idfix-fota
-	url = git@github.com:2log-io/idfix-fota.git
+        path = components/idfix-fota
+        url = https://github.com/2log-io/idfix-fota.git
 [submodule "components/idfix-iodevices"]
-	path = components/idfix-iodevices
-	url = git@github.com:2log-io/idfix-iodevices.git
+        path = components/idfix-iodevices
+        url = https://github.com/2log-io/idfix-iodevices.git
 [submodule "components/idfix-quickhub"]
-	path = components/idfix-quickhub
-	url = git@github.com:2log-io/idfix-quickhub.git
+        path = components/idfix-quickhub
+        url = https://github.com/2log-io/idfix-quickhub.git
